@@ -1,8 +1,0 @@
-{
-  "label": "UART/Serial",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "UART/Serial Device Demonstrations"
-  }
-}
