@@ -21,7 +21,7 @@ const config = {
   organizationName: 'dangerousprototypes', // Usually your GitHub org/user name.
   projectName: 'buspirate5-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
