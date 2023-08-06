@@ -1,11 +1,11 @@
 import React from 'react';
 import {useEffect} from 'react';
 
-export default function DiscourseComments({url}) {
+export default function DiscourseComments() {
   useEffect(() => {
     window.DiscourseEmbed = {
       discourseUrl: 'https://forum.buspirate.com/',
-      discourseEmbedUrl: url,
+      discourseEmbedUrl: window.location.href,
     };
 
     const d = document.createElement('script');
