@@ -76,7 +76,7 @@ the Bus Pirate forum.
 
 ### `<span style="text-decoration: underline;">`{=html}?`</span>`{=html} Help menu with latest menu and syntax options {#help_menu_with_latest_menu_and_syntax_options}
 
-![Bpv52-help](./img/Bpv52-help.png)
+![Bpv52-help](./img/bpv52-help.png)
 
 Print a help screen with all available menu and syntax options in the
 current firmware and hardware.

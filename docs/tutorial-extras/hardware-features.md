@@ -6,8 +6,8 @@ sidebar_label: 'Hardware Features'
 # Hardware Features
 
 SOIC Version
-![Buspiratev3overview](./img/Buspiratev3overview.png)
-![Bp-overview2](./img/Bp-overview2.png)
+![Buspiratev3overview](./img/buspiratev3overview.png)
+![p-overview2](./img/bp-overview2.png)
 
 Last Version
 ![bp-overview-last](./img/bp-overview-last.png)
