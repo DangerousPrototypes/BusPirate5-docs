@@ -3,10 +3,8 @@ sidebar_position: 1
 sidebar_label: 'All Commands 2'
 ---
 import DiscourseComments from '@site/src/components/DiscourseComments';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 # Command Reference
-<ul>
-  {Object.entries(frontMatter).map(([key, value]) => <li key={key}><b>{key}</b>: {value}</li>)}
-</ul>
 
-<DiscourseComments url={window.location.href}/>
+<BrowserOnly>{() => <DiscourseComments url={window.location.href}/>}</BrowserOnly>
